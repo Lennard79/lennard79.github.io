@@ -18,7 +18,7 @@ function setup() {
 function draw() {
   
   noStroke();
-  fill(249,24,13,30);
+  fill(249,24,13,200);
   circle(mouseX, mouseY, 200);
 
   
