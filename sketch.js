@@ -19,7 +19,7 @@ function draw() {
   
   noStroke();
   fill(249,24,13,30);
-  circle(mouseX, mouseY, 20);
+  circle(mouseX, mouseY, 200);
 
   
   
